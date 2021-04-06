@@ -2,7 +2,7 @@
 <hr>
 <img src="https://github.com/triyam/Face-Detection/blob/main/sample.jpg">
 <hr>
-**Make sure you have installed opencv before running it
+##Make sure you have installed opencv before running it
 
     pip install opencv-python
     

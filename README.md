@@ -1,6 +1,5 @@
 # Face-Detection [![Build Status](https://secure.travis-ci.org/oncletom/mailto.png?branch=master)](http://travis-ci.org/oncletom/mailto)
 > A simple Face Detection as well as eye
-<hr>
 <img src="https://github.com/triyam/Face-Detection/blob/main/sample.jpg">
 <hr>
 
